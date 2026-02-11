@@ -10,6 +10,7 @@ Please obtain the original dataset and then run the script provided by HPT (http
 
 ## Train
 
+```
 usage: train.py [-h] [--lr LR] [--data DATA] [--batch BATCH]
                 [--early-stop EARLY_STOP] [--device DEVICE] --name NAME
                 [--update UPDATE] [--swanlab] [--arch ARCH] [--layer LAYER]
@@ -52,3 +53,4 @@ optional arguments:
   --threshold THRESHOLD
                         Classification Threshold during Inference (default: 0.5)
   --epoch EPOCH         Max Training Epochs (default: 100)
+```
