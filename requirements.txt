@@ -63,10 +63,10 @@ swanlab==0.7.6
 sympy==1.14.0
 tokenizers==0.15.2
 torch==2.1.2+cu121
-torch_cluster-1.6.2%2Bpt21cu121-cp310-cp310-linux_x86_64.whl#sha256=ec7d1827b6357f0df1ce23e3d695628fe4ba799c374d61a45573441b7456c7fa
+torch_cluster==1.6.2
 torch-geometric==2.7.0
-torch_scatter-2.1.2%2Bpt21cu121-cp310-cp310-linux_x86_64.whl#sha256=5f8d47fab8667b153ca5ca89b616c82f7610814bd25e1b1ee081e789bed3a76f
-torch_sparse-0.6.18%2Bpt21cu121-cp310-cp310-linux_x86_64.whl#sha256=1fa4542fc2a895b3530c872640ca25f6ae77a0072ecd8375e11989dcf9148d60
+torch_scatter==2.1.2
+torch_sparse==0.6.18
 torchaudio==2.1.2+cu121
 torchvision==0.16.2+cu121
 tqdm==4.67.1
